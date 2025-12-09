@@ -1,4 +1,4 @@
-import { Hocuspocus } from "@hocuspocus/server";
+import { Hocuspocus } from "@patrick-baber-test/server";
 import { upgradeWebSocket } from "hono/deno";
 
 const hocuspocus = new Hocuspocus({

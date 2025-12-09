@@ -10,7 +10,7 @@ import type { Awareness } from "y-protocols/awareness";
 import { encodeAwarenessUpdate } from "y-protocols/awareness";
 import { writeSyncStep1, writeUpdate } from "y-protocols/sync";
 
-import { writeAuthenticated, writePermissionDenied, writeTokenSyncRequest } from "@hocuspocus/common";
+import { writeAuthenticated, writePermissionDenied, writeTokenSyncRequest } from "@patrick-baber-test/common";
 import type Document from "./Document.ts";
 import { MessageType } from "./types.ts";
 

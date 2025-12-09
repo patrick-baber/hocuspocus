@@ -8,7 +8,7 @@ import type {
 	onDisconnectPayload,
 	onRequestPayload,
 	onUpgradePayload,
-} from "@hocuspocus/server";
+} from "@patrick-baber-test/server";
 
 export interface LoggerConfiguration {
 	/**

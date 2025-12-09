@@ -1,4 +1,4 @@
-import { AuthMessageType } from "@hocuspocus/common";
+import { AuthMessageType } from "@patrick-baber-test/common";
 import * as decoding from "lib0/decoding";
 import { readVarString } from "lib0/decoding";
 import { applyAwarenessUpdate } from "y-protocols/awareness";

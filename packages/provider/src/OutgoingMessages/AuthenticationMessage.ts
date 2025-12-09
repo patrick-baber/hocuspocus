@@ -1,5 +1,5 @@
 import { writeVarString, writeVarUint } from "lib0/encoding";
-import { writeAuthentication } from "@hocuspocus/common";
+import { writeAuthentication } from "@patrick-baber-test/common";
 import type { OutgoingMessageArguments } from "../types.ts";
 import { MessageType } from "../types.ts";
 import { OutgoingMessage } from "../OutgoingMessage.ts";

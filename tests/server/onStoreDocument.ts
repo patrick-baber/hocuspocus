@@ -1,4 +1,4 @@
-import type { Extension, onLoadDocumentPayload, onStoreDocumentPayload } from "@hocuspocus/server";
+import type { Extension, onLoadDocumentPayload, onStoreDocumentPayload } from "@patrick-baber-test/server";
 import test from "ava";
 import {
 	newHocuspocus,

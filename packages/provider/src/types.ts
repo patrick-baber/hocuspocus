@@ -2,7 +2,7 @@ import type { Encoder } from "lib0/encoding";
 import type { Event, MessageEvent } from "ws";
 import type { Awareness } from "y-protocols/awareness";
 import type * as Y from "yjs";
-import type { CloseEvent } from "@hocuspocus/common";
+import type { CloseEvent } from "@patrick-baber-test/common";
 import type { IncomingMessage } from "./IncomingMessage.ts";
 import type { OutgoingMessage } from "./OutgoingMessage.ts";
 import type { AuthenticationMessage } from "./OutgoingMessages/AuthenticationMessage.ts";

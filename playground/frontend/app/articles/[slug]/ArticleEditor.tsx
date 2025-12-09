@@ -7,7 +7,7 @@ import CollaborativeEditor from "@/app/articles/[slug]/CollaborativeEditor";
 import {
 	HocuspocusProvider,
 	HocuspocusProviderWebsocket,
-} from "@hocuspocus/provider";
+} from "@patrick-baber-test/provider";
 // import { TiptapCollabProvider } from "@tiptap-cloud/provider";
 import { useContext, useEffect, useState } from "react";
 

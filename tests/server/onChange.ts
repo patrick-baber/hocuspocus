@@ -1,5 +1,5 @@
 import test from 'ava'
-import type { onChangePayload } from '@hocuspocus/server'
+import type { onChangePayload } from '@patrick-baber-test/server'
 import { newHocuspocus, newHocuspocusProvider } from '../utils/index.ts'
 import { retryableAssertion } from '../utils/retryableAssertion.ts'
 

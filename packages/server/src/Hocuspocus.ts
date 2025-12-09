@@ -1,6 +1,6 @@
 import crypto from "node:crypto";
 import type { IncomingMessage } from "node:http";
-import { ResetConnection, awarenessStatesToArray } from "@hocuspocus/common";
+import { ResetConnection, awarenessStatesToArray } from "@patrick-baber-test/common";
 import type WebSocket from "ws";
 import type { Doc } from "yjs";
 import { applyUpdate, encodeStateAsUpdate } from "yjs";

@@ -4,7 +4,7 @@ import type {
 	onLoadDocumentPayload,
 	storePayload,
 	fetchPayload,
-} from "@hocuspocus/server";
+} from "@patrick-baber-test/server";
 import * as Y from "yjs";
 
 export interface DatabaseConfiguration {

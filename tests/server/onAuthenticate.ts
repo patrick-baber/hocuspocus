@@ -1,8 +1,8 @@
-import { WebSocketStatus } from "@hocuspocus/provider";
+import { WebSocketStatus } from "@patrick-baber-test/provider";
 import type {
 	onAuthenticatePayload,
 	onLoadDocumentPayload,
-} from "@hocuspocus/server";
+} from "@patrick-baber-test/server";
 import test from "ava";
 import {
 	newHocuspocus,

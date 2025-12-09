@@ -19,7 +19,7 @@
     "allowJs": false,
     "checkJs": false,
     "paths": {
-      "@hocuspocus/*": [
+      "@patrick-baber-test/*": [
         "packages/*/src/index.ts",
       ]
     },

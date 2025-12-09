@@ -1,5 +1,5 @@
-import { Logger } from "@hocuspocus/extension-logger";
-import { Hocuspocus } from "@hocuspocus/server";
+import { Logger } from "@patrick-baber-test/extension-logger";
+import { Hocuspocus } from "@patrick-baber-test/server";
 import express from "express";
 import expressWebsockets from "express-ws";
 

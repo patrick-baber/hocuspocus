@@ -1,5 +1,5 @@
 import test from 'ava'
-import { TiptapTransformer } from '@hocuspocus/transformer'
+import { TiptapTransformer } from '@patrick-baber-test/transformer'
 
 test('transforms JSON to Y.Doc', async t => {
   const json = {

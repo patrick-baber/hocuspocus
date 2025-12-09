@@ -3,10 +3,10 @@ import {
   createServer,
 } from 'http'
 import { createHmac, timingSafeEqual } from 'crypto'
-import { Server } from '@hocuspocus/server'
-import { Logger } from '@hocuspocus/extension-logger'
-import { TiptapTransformer } from '@hocuspocus/transformer'
-import { Events, Webhook } from '@hocuspocus/extension-webhook'
+import { Server } from '@patrick-baber-test/server'
+import { Logger } from '@patrick-baber-test/extension-logger'
+import { TiptapTransformer } from '@patrick-baber-test/transformer'
+import { Events, Webhook } from '@patrick-baber-test/extension-webhook'
 
 /*
  * Setup server

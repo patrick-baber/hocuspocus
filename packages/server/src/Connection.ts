@@ -3,7 +3,7 @@ import {
 	type CloseEvent,
 	ResetConnection,
 	WsReadyStates,
-} from "@hocuspocus/common";
+} from "@patrick-baber-test/common";
 import type WebSocket from "ws";
 import type Document from "./Document.ts";
 import { IncomingMessage } from "./IncomingMessage.ts";

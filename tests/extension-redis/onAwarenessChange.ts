@@ -1,5 +1,5 @@
-import { Redis } from "@hocuspocus/extension-redis";
-import type { onAwarenessChangeParameters } from "@hocuspocus/provider";
+import { Redis } from "@patrick-baber-test/extension-redis";
+import type { onAwarenessChangeParameters } from "@patrick-baber-test/provider";
 import test from "ava";
 import {
 	newHocuspocus,

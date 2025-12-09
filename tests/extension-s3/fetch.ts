@@ -1,6 +1,6 @@
 import test from "ava";
 import sinon from "sinon";
-import { S3 } from "@hocuspocus/extension-s3";
+import { S3 } from "@patrick-baber-test/extension-s3";
 import {
   S3Client,
   CreateBucketCommand,

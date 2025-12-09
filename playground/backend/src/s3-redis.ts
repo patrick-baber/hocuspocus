@@ -1,7 +1,7 @@
-import { Server } from '@hocuspocus/server'
-import { Logger } from '@hocuspocus/extension-logger'
-import { Redis } from '@hocuspocus/extension-redis'
-import { S3 } from '@hocuspocus/extension-s3'
+import { Server } from '@patrick-baber-test/server'
+import { Logger } from '@patrick-baber-test/extension-logger'
+import { Redis } from '@patrick-baber-test/extension-redis'
+import { S3 } from '@patrick-baber-test/extension-s3'
 
 // AWS S3 + Redis scaling example (only if AWS credentials are available)
 let awsServer1, awsServer2;

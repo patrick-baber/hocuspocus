@@ -1,4 +1,4 @@
-import { awarenessStatesToArray } from "@hocuspocus/common";
+import { awarenessStatesToArray } from "@patrick-baber-test/common";
 import type { Event, MessageEvent } from "ws";
 import { Awareness, removeAwarenessStates } from "y-protocols/awareness";
 import * as Y from "yjs";

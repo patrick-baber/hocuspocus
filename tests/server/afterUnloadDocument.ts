@@ -1,5 +1,5 @@
 import test from 'ava'
-import type { HocuspocusProvider } from '@hocuspocus/provider'
+import type { HocuspocusProvider } from '@patrick-baber-test/provider'
 
 import { newHocuspocus, newHocuspocusProvider } from '../utils/index.ts'
 

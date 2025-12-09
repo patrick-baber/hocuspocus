@@ -1,5 +1,5 @@
 import test from 'ava'
-import { Server } from '@hocuspocus/server'
+import { Server } from '@patrick-baber-test/server'
 import { newHocuspocus } from '../utils/index.ts'
 
 test('should respond with OK', async t => {

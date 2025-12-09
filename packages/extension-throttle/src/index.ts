@@ -1,4 +1,4 @@
-import type { Extension, onConnectPayload } from "@hocuspocus/server";
+import type { Extension, onConnectPayload } from "@patrick-baber-test/server";
 
 export interface ThrottleConfiguration {
 	throttle: number | null | false; // how many requests within `consideredSeconds` until we're rejecting requests (setting this to 15 means the 16th request will be rejected)

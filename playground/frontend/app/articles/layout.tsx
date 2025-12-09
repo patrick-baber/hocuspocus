@@ -2,7 +2,7 @@
 
 import { SocketContext1 } from "@/app/SocketContext1";
 import { SocketContext2 } from "@/app/SocketContext2";
-import { HocuspocusProviderWebsocket } from "@hocuspocus/provider";
+import { HocuspocusProviderWebsocket } from "@patrick-baber-test/provider";
 // import {
 // 	TiptapCollabProvider,
 // 	TiptapCollabProviderWebsocket,

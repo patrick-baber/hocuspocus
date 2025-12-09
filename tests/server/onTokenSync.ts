@@ -1,6 +1,6 @@
 import test from 'ava'
-import type { onAuthenticatePayload, onTokenSyncPayload } from '@hocuspocus/server'
-import { Unauthorized } from '@hocuspocus/common'
+import type { onAuthenticatePayload, onTokenSyncPayload } from '@patrick-baber-test/server'
+import { Unauthorized } from '@patrick-baber-test/common'
 import {
   newHocuspocus, newHocuspocusProvider, newHocuspocusProviderWebsocket, sleep,
 } from '../utils/index.ts'

@@ -1,14 +1,14 @@
 import { createHmac } from "node:crypto";
-import { Forbidden } from "@hocuspocus/common";
+import { Forbidden } from "@patrick-baber-test/common";
 import type {
 	Extension,
 	onChangePayload,
 	onConnectPayload,
 	onDisconnectPayload,
 	onLoadDocumentPayload,
-} from "@hocuspocus/server";
-import type { Transformer } from "@hocuspocus/transformer";
-import { TiptapTransformer } from "@hocuspocus/transformer";
+} from "@patrick-baber-test/server";
+import type { Transformer } from "@patrick-baber-test/transformer";
+import { TiptapTransformer } from "@patrick-baber-test/transformer";
 import axios from "axios";
 import type { Doc } from "yjs";
 

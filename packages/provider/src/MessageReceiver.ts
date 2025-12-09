@@ -1,4 +1,4 @@
-import { readAuthMessage } from "@hocuspocus/common";
+import { readAuthMessage } from "@patrick-baber-test/common";
 import { readVarInt, readVarString } from "lib0/decoding";
 import * as awarenessProtocol from "y-protocols/awareness";
 import { messageYjsSyncStep2, readSyncMessage } from "y-protocols/sync";

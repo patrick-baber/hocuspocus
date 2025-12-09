@@ -1,4 +1,4 @@
-import { WsReadyStates } from "@hocuspocus/common";
+import { WsReadyStates } from "@patrick-baber-test/common";
 import { retry } from "@lifeomic/attempt";
 import * as time from "lib0/time";
 import type { Event, MessageEvent } from "ws";
@@ -33,7 +33,7 @@ export interface CompleteHocuspocusProviderWebsocketConfiguration {
 	autoConnect: boolean;
 
 	/**
-	 * URL of your @hocuspocus/server instance
+	 * URL of your @patrick-baber-test/server instance
 	 */
 	url: string;
 

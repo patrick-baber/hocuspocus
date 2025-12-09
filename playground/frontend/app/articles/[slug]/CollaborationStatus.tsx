@@ -2,7 +2,7 @@ import type {
 	HocuspocusProvider,
 	onStatusParameters,
 	onUnsyncedChangesParameters,
-} from "@hocuspocus/provider";
+} from "@patrick-baber-test/provider";
 import { useEffect, useState } from "react";
 
 const CollaborationStatus = (props: {

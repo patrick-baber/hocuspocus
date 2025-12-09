@@ -1,5 +1,5 @@
-import type { DatabaseConfiguration } from "@hocuspocus/extension-database";
-import { Database } from "@hocuspocus/extension-database";
+import type { DatabaseConfiguration } from "@patrick-baber-test/extension-database";
+import { Database } from "@patrick-baber-test/extension-database";
 import {
 	S3Client,
 	GetObjectCommand,

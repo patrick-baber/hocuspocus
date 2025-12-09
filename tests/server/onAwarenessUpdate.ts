@@ -1,5 +1,5 @@
 import test from 'ava'
-import type { onAwarenessUpdatePayload } from '@hocuspocus/server'
+import type { onAwarenessUpdatePayload } from '@patrick-baber-test/server'
 import { newHocuspocus, newHocuspocusProvider } from '../utils/index.ts'
 
 test('executes the onAwarenessUpdate callback', async t => {

@@ -1,7 +1,7 @@
-import { Server } from '@hocuspocus/server'
-import { Logger } from '@hocuspocus/extension-logger'
-import { Redis } from '@hocuspocus/extension-redis'
-import { SQLite } from '@hocuspocus/extension-sqlite'
+import { Server } from '@patrick-baber-test/server'
+import { Logger } from '@patrick-baber-test/extension-logger'
+import { Redis } from '@patrick-baber-test/extension-redis'
+import { SQLite } from '@patrick-baber-test/extension-sqlite'
 
 const server = new Server({
   port: 1234,

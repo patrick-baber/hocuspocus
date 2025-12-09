@@ -1,6 +1,6 @@
 import test from 'ava'
 import sinon from 'sinon'
-import { Logger } from '@hocuspocus/extension-logger'
+import { Logger } from '@patrick-baber-test/extension-logger'
 import { newHocuspocus, newHocuspocusProvider } from '../utils/index.ts'
 
 const fakeLogger = (message: any) => {

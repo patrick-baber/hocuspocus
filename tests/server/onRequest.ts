@@ -1,5 +1,5 @@
 import test from 'ava'
-import type { onRequestPayload } from '@hocuspocus/server'
+import type { onRequestPayload } from '@patrick-baber-test/server'
 import { newHocuspocus } from '../utils/index.ts'
 
 test('executes the onRequest callback', async t => {

@@ -1,5 +1,5 @@
 import test from 'ava'
-import { Throttle } from '@hocuspocus/extension-throttle'
+import { Throttle } from '@patrick-baber-test/extension-throttle'
 
 test('throttle has the default configuration', async t => {
   t.is(new Throttle().configuration.throttle, 15)

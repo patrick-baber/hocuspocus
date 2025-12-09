@@ -1,5 +1,5 @@
 import test from 'ava'
-import type { Hocuspocus } from '@hocuspocus/server'
+import type { Hocuspocus } from '@patrick-baber-test/server'
 import { newHocuspocus, newHocuspocusProvider } from '../utils/index.ts'
 
 test('onConfigure callback is executed', async t => {

@@ -1,10 +1,10 @@
 #!/usr/bin/env node
 
-import { Logger } from "@hocuspocus/extension-logger";
-import { S3 } from "@hocuspocus/extension-s3";
-import { SQLite } from "@hocuspocus/extension-sqlite";
-import { Webhook } from "@hocuspocus/extension-webhook";
-import { Server } from "@hocuspocus/server";
+import { Logger } from "@patrick-baber-test/extension-logger";
+import { S3 } from "@patrick-baber-test/extension-s3";
+import { SQLite } from "@patrick-baber-test/extension-sqlite";
+import { Webhook } from "@patrick-baber-test/extension-webhook";
+import { Server } from "@patrick-baber-test/server";
 import meow from "meow";
 
 export const cli = meow(

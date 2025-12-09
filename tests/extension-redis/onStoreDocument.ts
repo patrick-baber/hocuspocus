@@ -1,7 +1,7 @@
 import test from 'ava'
-import type { onStoreDocumentPayload } from '@hocuspocus/server'
-import { Redis } from '@hocuspocus/extension-redis'
-import type { HocuspocusProvider } from '@hocuspocus/provider'
+import type { onStoreDocumentPayload } from '@patrick-baber-test/server'
+import { Redis } from '@patrick-baber-test/extension-redis'
+import type { HocuspocusProvider } from '@patrick-baber-test/provider'
 import { uuidv4 } from 'lib0/random'
 import { newHocuspocus, newHocuspocusProvider, redisConnectionSettings } from '../utils/index.ts'
 

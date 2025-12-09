@@ -1,5 +1,5 @@
-import type { ServerConfiguration } from '@hocuspocus/server'
-import { Server } from '@hocuspocus/server'
+import type { ServerConfiguration } from '@patrick-baber-test/server'
+import { Server } from '@patrick-baber-test/server'
 
 export const newHocuspocus = (options?: Partial<ServerConfiguration>) => {
   const server = new Server({

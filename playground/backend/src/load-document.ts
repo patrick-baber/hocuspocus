@@ -1,8 +1,8 @@
-import type { onLoadDocumentPayload } from '@hocuspocus/server'
-import { Server } from '@hocuspocus/server'
-import { Logger } from '@hocuspocus/extension-logger'
-import { TiptapTransformer } from '@hocuspocus/transformer'
-import { SQLite } from '@hocuspocus/extension-sqlite'
+import type { onLoadDocumentPayload } from '@patrick-baber-test/server'
+import { Server } from '@patrick-baber-test/server'
+import { Logger } from '@patrick-baber-test/extension-logger'
+import { TiptapTransformer } from '@patrick-baber-test/transformer'
+import { SQLite } from '@patrick-baber-test/extension-sqlite'
 
 const getProseMirrorJSON = (text: string) => {
   return {

@@ -21,9 +21,9 @@ async function getSortedPackages(scope, ignore) {
 	const packages = await getPackages(__dirname);
 	const filtered = filterPackages(packages, scope, ignore, false);
 
-	return batchPackages(filtered)
+		return batchPackages(filtered)
 		.filter(
-			(item) => !["@hocuspocus/docs", "@hocuspocus/demo"].includes(item.name),
+			(item) => !["@patrick-baber-test/docs", "@patrick-baber-test/demo"].includes(item.name),
 		)
 		.reduce((arr, batch) => arr.concat(batch), []);
 }
@@ -90,7 +90,7 @@ async function build(commandLineArgs) {
 						declaration: true,
 						declarationDir: path.join(basePath, "dist"),
 						paths: {
-							"@hocuspocus/*": ["packages/*/src"],
+							"@patrick-baber-test/*": ["packages/*/src"],
 						},
 					},
 					include: [],

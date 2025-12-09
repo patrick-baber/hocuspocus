@@ -1,4 +1,4 @@
-import { Redis } from "@hocuspocus/extension-redis";
+import { Redis } from "@patrick-baber-test/extension-redis";
 import test from "ava";
 import {
 	newHocuspocus,

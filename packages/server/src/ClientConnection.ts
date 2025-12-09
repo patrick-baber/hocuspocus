@@ -8,7 +8,7 @@ import {
 	ResetConnection,
 	Unauthorized,
 	WsReadyStates,
-} from "@hocuspocus/common";
+} from "@patrick-baber-test/common";
 import * as decoding from "lib0/decoding";
 import type WebSocket from "ws";
 import Connection from "./Connection.ts";

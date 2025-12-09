@@ -12,12 +12,12 @@ import type {
 	onChangePayload,
 	onConfigurePayload,
 	onStoreDocumentPayload,
-} from "@hocuspocus/server";
+} from "@patrick-baber-test/server";
 import {
 	IncomingMessage,
 	MessageReceiver,
 	OutgoingMessage,
-} from "@hocuspocus/server";
+} from "@patrick-baber-test/server";
 import {
 	type ExecutionResult,
 	type Lock,

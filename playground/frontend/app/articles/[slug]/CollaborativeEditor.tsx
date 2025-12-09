@@ -1,6 +1,6 @@
 "use client";
 
-import type { HocuspocusProvider } from "@hocuspocus/provider";
+import type { HocuspocusProvider } from "@patrick-baber-test/provider";
 import { Collaboration } from "@tiptap/extension-collaboration";
 import { CollaborationCaret } from "@tiptap/extension-collaboration-caret";
 import { EditorContent, useEditor } from "@tiptap/react";

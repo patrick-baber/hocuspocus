@@ -1,5 +1,5 @@
 import test from 'ava'
-import { WebSocketStatus } from '@hocuspocus/provider'
+import { WebSocketStatus } from '@patrick-baber-test/provider'
 import {
   newHocuspocus, newHocuspocusProvider, newHocuspocusProviderWebsocket, sleep,
 } from '../utils/index.ts'

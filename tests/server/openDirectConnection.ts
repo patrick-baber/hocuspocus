@@ -1,4 +1,4 @@
-import { TiptapTransformer } from "@hocuspocus/transformer";
+import { TiptapTransformer } from "@patrick-baber-test/transformer";
 import test from "ava";
 import * as Y from "yjs";
 import { newHocuspocus, newHocuspocusProvider, sleep } from "../utils/index.ts";

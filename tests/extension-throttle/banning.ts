@@ -1,7 +1,7 @@
 import test from 'ava'
-import type { onConnectPayload } from '@hocuspocus/server'
+import type { onConnectPayload } from '@patrick-baber-test/server'
 import * as MockDate from 'mockdate'
-import { Throttle } from '@hocuspocus/extension-throttle'
+import { Throttle } from '@patrick-baber-test/extension-throttle'
 
 const getOnConnectPayload = (ip: string) => {
   return {
