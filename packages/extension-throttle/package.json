@@ -1,6 +1,6 @@
 {
 	"name": "@patrick-baber-test/extension-throttle",
-	"version": "3.4.0",
+	"version": "3.4.1",
 	"description": "hocuspocus throttle extension",
 	"homepage": "https://hocuspocus.dev",
 	"keywords": [
@@ -28,7 +28,7 @@
 		"dist"
 	],
 	"dependencies": {
-		"@patrick-baber-test/server": "^3.4.0"
+		"@patrick-baber-test/server": "^3.4.1"
 	},
 	"gitHead": "b3454a4ca289a84ddfb7fa5607a2d4b8d5c37e9d"
 }

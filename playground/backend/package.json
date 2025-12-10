@@ -9,12 +9,12 @@
     "dev": "nodemon --inspect -e ts --watch ./ --watch ../../packages --exec npm start"
   },
   "dependencies": {
-    "@patrick-baber-test/extension-logger": "^3.4.0",
-    "@patrick-baber-test/extension-redis": "^3.4.0",
-    "@patrick-baber-test/extension-sqlite": "^3.4.0",
-    "@patrick-baber-test/extension-webhook": "^3.4.0",
-    "@patrick-baber-test/server": "^3.4.0",
-    "@patrick-baber-test/transformer": "^3.4.0",
+    "@patrick-baber-test/extension-logger": "^3.4.1",
+    "@patrick-baber-test/extension-redis": "^3.4.1",
+    "@patrick-baber-test/extension-sqlite": "^3.4.1",
+    "@patrick-baber-test/extension-webhook": "^3.4.1",
+    "@patrick-baber-test/server": "^3.4.1",
+    "@patrick-baber-test/transformer": "^3.4.1",
     "@tiptap/core": "^3.0.1",
     "@tiptap/pm": "^3.0.1",
     "@tiptap/starter-kit": "^3.0.1",

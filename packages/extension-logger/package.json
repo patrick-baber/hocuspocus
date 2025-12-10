@@ -1,6 +1,6 @@
 {
 	"name": "@patrick-baber-test/extension-logger",
-	"version": "3.4.0",
+	"version": "3.4.1",
 	"description": "hocuspocus logging extension",
 	"homepage": "https://hocuspocus.dev",
 	"keywords": [
@@ -29,7 +29,7 @@
 		"dist"
 	],
 	"dependencies": {
-		"@patrick-baber-test/server": "^3.4.0"
+		"@patrick-baber-test/server": "^3.4.1"
 	},
 	"gitHead": "b3454a4ca289a84ddfb7fa5607a2d4b8d5c37e9d"
 }
