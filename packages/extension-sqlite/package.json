@@ -3,6 +3,10 @@
 	"description": "a generic Hocuspocus persistence driver for the sqlite",
 	"version": "3.4.1",
 	"homepage": "https://hocuspocus.dev",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/patrick-baber/hocuspocus"
+	},
 	"keywords": [
 		"hocuspocus",
 		"yjs"

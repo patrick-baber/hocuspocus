@@ -3,6 +3,10 @@
 	"version": "3.4.1",
 	"description": "Scale Hocuspocus horizontally with Redis",
 	"homepage": "https://hocuspocus.dev",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/patrick-baber/hocuspocus"
+	},
 	"keywords": [
 		"hocuspocus",
 		"redis",

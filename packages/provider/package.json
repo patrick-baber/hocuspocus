@@ -3,6 +3,10 @@
 	"version": "3.4.1",
 	"description": "hocuspocus provider",
 	"homepage": "https://hocuspocus.dev",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/patrick-baber/hocuspocus"
+	},
 	"keywords": [
 		"hocuspocus",
 		"websocket",
