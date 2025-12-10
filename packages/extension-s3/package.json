@@ -1,7 +1,7 @@
 {
 	"name": "@patrick-baber-test/extension-s3",
 	"description": "a S3-compatible persistence driver for Hocuspocus",
-	"version": "3.4.2",
+	"version": "3.4.3",
 	"homepage": "https://hocuspocus.dev",
 	"repository": {
 		"type": "git",
@@ -34,7 +34,7 @@
 	],
 	"dependencies": {
 		"@aws-sdk/client-s3": "^3.0.0",
-		"@patrick-baber-test/extension-database": "^3.4.2",
+		"@patrick-baber-test/extension-database": "^3.4.3",
 		"kleur": "^4.1.4"
 	},
 	"publishConfig": {

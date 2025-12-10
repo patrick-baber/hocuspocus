@@ -1,7 +1,7 @@
 {
 	"name": "@patrick-baber-test/common",
 	"description": "shared code for multiple Hocuspocus packages",
-	"version": "3.4.2",
+	"version": "3.4.3",
 	"homepage": "https://hocuspocus.dev",
 	"repository": {
 		"type": "git",

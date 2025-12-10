@@ -1,6 +1,6 @@
 {
 	"name": "@patrick-baber-test/extension-webhook",
-	"version": "3.4.2",
+	"version": "3.4.3",
 	"description": "hocuspocus webhook extension",
 	"homepage": "https://hocuspocus.dev",
 	"repository": {
@@ -34,9 +34,9 @@
 		"dist"
 	],
 	"dependencies": {
-		"@patrick-baber-test/common": "^3.4.2",
-		"@patrick-baber-test/server": "^3.4.2",
-		"@patrick-baber-test/transformer": "^3.4.2",
+		"@patrick-baber-test/common": "^3.4.3",
+		"@patrick-baber-test/server": "^3.4.3",
+		"@patrick-baber-test/transformer": "^3.4.3",
 		"axios": "^1.12.2"
 	},
 	"peerDependencies": {

@@ -1,7 +1,7 @@
 {
 	"name": "@patrick-baber-test/cli",
 	"description": "a CLI tool to start a local Hocuspocus server",
-	"version": "3.4.2",
+	"version": "3.4.3",
 	"homepage": "https://hocuspocus.dev",
 	"repository": {
 		"type": "git",
@@ -22,11 +22,11 @@
 		"src"
 	],
 	"dependencies": {
-		"@patrick-baber-test/extension-logger": "^3.4.2",
-		"@patrick-baber-test/extension-s3": "^3.4.2",
-		"@patrick-baber-test/extension-sqlite": "^3.4.2",
-		"@patrick-baber-test/extension-webhook": "^3.4.2",
-		"@patrick-baber-test/server": "^3.4.2",
+		"@patrick-baber-test/extension-logger": "^3.4.3",
+		"@patrick-baber-test/extension-s3": "^3.4.3",
+		"@patrick-baber-test/extension-sqlite": "^3.4.3",
+		"@patrick-baber-test/extension-webhook": "^3.4.3",
+		"@patrick-baber-test/server": "^3.4.3",
 		"meow": "^14.0.0"
 	},
 	"gitHead": "b3454a4ca289a84ddfb7fa5607a2d4b8d5c37e9d"
