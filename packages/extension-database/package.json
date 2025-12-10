@@ -1,7 +1,7 @@
 {
 	"name": "@patrick-baber-test/extension-database",
 	"description": "a generic Hocuspocus persistence driver for the database",
-	"version": "3.4.1",
+	"version": "3.4.2",
 	"homepage": "https://hocuspocus.dev",
 	"repository": {
 		"type": "git",
@@ -31,7 +31,7 @@
 		"dist"
 	],
 	"dependencies": {
-		"@patrick-baber-test/server": "^3.4.1"
+		"@patrick-baber-test/server": "^3.4.2"
 	},
 	"peerDependencies": {
 		"yjs": "^13.6.8"

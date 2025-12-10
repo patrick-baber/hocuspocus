@@ -1,6 +1,6 @@
 {
 	"name": "@patrick-baber-test/provider",
-	"version": "3.4.1",
+	"version": "3.4.2",
 	"description": "hocuspocus provider",
 	"homepage": "https://hocuspocus.dev",
 	"repository": {
@@ -33,7 +33,7 @@
 		"dist"
 	],
 	"dependencies": {
-		"@patrick-baber-test/common": "^3.4.1",
+		"@patrick-baber-test/common": "^3.4.2",
 		"@lifeomic/attempt": "^3.0.2",
 		"lib0": "^0.2.87",
 		"ws": "^8.17.1"
